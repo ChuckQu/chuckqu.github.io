@@ -1,34 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/03/27/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test fist paper</title>
-    <url>/2021/03/28/test-fist-paper/</url>
-    <content><![CDATA[<h2 id="first-01"><a href="#first-01" class="headerlink" title="first 01"></a>first 01</h2><p><strong>test01</strong></p>
-<h2 id="first02"><a href="#first02" class="headerlink" title="first02"></a>first02</h2><p><em>test02</em></p>
-]]></content>
+    <title>周记 2021 Q2</title>
+    <url>/2021/04/18/weekly-note-2021Q2/</url>
+    <content><![CDATA[<h2 id="4-12-4-18"><a href="#4-12-4-18" class="headerlink" title="4.12 - 4.18"></a>4.12 - 4.18</h2><p>周六的时候在家经历了一次沙尘暴，早上八九点的时候，本来明亮的天突然变得很暗，伸手出窗外是似雨滴又似细沙的感觉。宝宝跑过来喊：天黑啦，是到睡觉时间了吗？</p>
+<p>之后天空放晴，还是按计划带宝宝和爸妈一起去金海湿地公园，湖边玩了一会沙子，沿几座桥转了一圈，感觉风大，空气污染仍比较严重，就早点离开了。</p>
+<p>中午去了宝龙城市广场，带宝宝做了一圈小火车，中间广场里也有那种自助式的儿童汽车，有一个小火车头造型的，宝宝很喜欢，边开边说：我会开火车啦。</p>
+<p>之后还是在丰收日吃饭。</p>
+<p>周日天气好，爸妈带宝宝去了游乐园，我去了杨高北路绿地把蝌蚪放生，抓回来快一个月了，靠着一点水草还一直活着，就是没怎么长大。</p>
+<p>然后去了张桥那边的绿地，坐在湖边看了一会书。中午在佳林路一家心开的驴肉火烧馆子吃饭，味道一般，不怎么香。</p>
+<h2 id="4-19-4-25"><a href="#4-19-4-25" class="headerlink" title="4.19 - 4.25"></a>4.19 - 4.25</h2>]]></content>
       <categories>
-        <category>读书</category>
+        <category>周记</category>
       </categories>
-      <tags>
-        <tag>life</tag>
-      </tags>
   </entry>
 </search>
