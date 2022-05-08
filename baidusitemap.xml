@@ -1,40 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2022/05/07/20220507_tokyo_girl/</loc>
-    <lastmod>2022-05-07</lastmod>
+    <loc>http://example.com/2021/06/25/20210625_detective_novel_1/</loc>
+    <lastmod>2022-05-08</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/04/24/20220424_movie_view_22april/</loc>
-    <lastmod>2022-04-24</lastmod>
+    <loc>http://example.com/2021/07/21/20210721_detective_novel_2/</loc>
+    <lastmod>2022-05-08</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2021/09/15/20210914_detective_novel_3/</loc>
+    <lastmod>2022-05-08</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2021/10/14/20211014_interview/</loc>
+    <lastmod>2022-05-08</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2021/11/29/20211129_detective_novel_4/</loc>
+    <lastmod>2022-05-08</lastmod>
   </url>
   <url>
     <loc>http://example.com/2022/01/05/20220105_detective_novel_5/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-05-08</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2022/05/07/20220507_tokyo_girl/</loc>
+    <lastmod>2022-05-08</lastmod>
   </url>
   <url>
     <loc>http://example.com/box/MyDiary/weekly-note-2021Q4.html</loc>
     <lastmod>2022-01-03</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2021/11/29/20211129_detective_novel_4/</loc>
-    <lastmod>2021-12-28</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2021/10/14/20211014_interview/</loc>
-    <lastmod>2021-12-19</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2021/09/15/20210914_detective_novel_3/</loc>
-    <lastmod>2021-11-18</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2021/07/21/20210721_detective_novel_2/</loc>
-    <lastmod>2021-11-16</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2021/06/25/20210625_detective_novel_1/</loc>
-    <lastmod>2021-11-16</lastmod>
   </url>
   <url>
     <loc>http://example.com/box/MyDiary/weekly-note-2021Q3.html</loc>
@@ -51,13 +47,5 @@
   <url>
     <loc>http://example.com/box/MyDiary/weekly-note-2021Q2.html</loc>
     <lastmod>2021-07-05</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2021/06/16/2021061601/</loc>
-    <lastmod>2021-06-16</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2021/05/23/2021052301/</loc>
-    <lastmod>2021-05-25</lastmod>
   </url>
 </urlset> 
