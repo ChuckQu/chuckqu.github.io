@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://example.com/2022/06/05/20220606_detective_novel_6/</loc>
+    <lastmod>2022-06-05</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2022/01/05/20220105_detective_novel_5/</loc>
+    <lastmod>2022-06-05</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/2021/06/16/2021061601/</loc>
     <lastmod>2022-05-14</lastmod>
   </url>
@@ -34,10 +42,6 @@
   </url>
   <url>
     <loc>http://example.com/2021/11/29/20211129_detective_novel_4/</loc>
-    <lastmod>2022-05-08</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2022/01/05/20220105_detective_novel_5/</loc>
     <lastmod>2022-05-08</lastmod>
   </url>
   <url>
